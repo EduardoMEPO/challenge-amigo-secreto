@@ -42,7 +42,7 @@ function sortearAmigo(){
         // Generar un índice aleatorio
         let indice = Math.floor(Math.random()*amigos.length); // elige número aleatorio de 0 a la longitud de la lista amigos
         // Obtener el nombre sorteado
-        nombre_sorteado = amigos[indice]
+        nombre_sorteado = "Tu Amigo Secreto es: " + amigos[indice]
         // Mostrar el resultado
         lista.innerHTML = nombre_sorteado;
     } else{
