@@ -1,7 +1,7 @@
 ![logo-amigo-secreto](https://github.com/user-attachments/assets/afc1a287-418c-488f-a9ab-c9cdab73c05b)
 
 <h1 align="center"> Juego Challenge Amigo Secreto</h1>
-- Estado del proyecto: Concluido
+- Estado del proyecto: Concluido.
 
 - ¿De que trata?
 
